@@ -1,0 +1,7 @@
+[user]
+  name = Rachel Wegener
+  email = rachel.e.wegener@gmail.com
+[credential]
+  helper = store
+[pull]
+  rebase = true
